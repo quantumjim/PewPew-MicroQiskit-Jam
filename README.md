@@ -10,4 +10,6 @@ Now what will you do with MicroQiskit? What will be your first attempt at writin
 
 * [Making games with quantum computers](https://medium.com/@decodoku/games-computers-and-quantum-84bfdd2c0fe0)
 
-The usual way to make a game is using and engine like [Unity](https://unity.com/) or [Godot](https://godotengine.org/). However, when learning to use Qiskit (or MicroQiskit), it's better to use a Python-based game engine.
+The usual way to make a game is using a powerful engine like [Unity](https://unity.com/) or [Godot](https://godotengine.org/). Some instead prefer to use a low-fi engine like [PICO-8](https://www.lexaloffle.com/pico-8.php): either because it levels the playing field between experts and newbies, or just because it is fun. Given that our aim is to learn to use Qiskit/MicroQiskit, we'll go the low-fi route. Specifically, we'll use an extended version of the [PewPew](https://github.com/pewpew-game/) game engine, implemented using [Pygame](https://github.com/pewpew-game/). Everything you need to develop, play and share games made with this engine is in the link below.
+
+* [PewPew+MicroQiskit on Repl.it](https://repl.it/@quantum_jim/PewPewMicroQiskit)
