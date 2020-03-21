@@ -22,7 +22,7 @@ To really get something out of this, you'll need to know about the basics of qua
 
 This is already enough to start with some [very simple procedural generation](https://nbviewer.jupyter.org/github/qiskit-community/MicroQiskit/blob/master/versions/MicroPython/tutorials/Terrain-Generator.ipynb), as I tested out in a recent [Ludum Dare entry](https://ldjam.com/events/ludum-dare/45/genesis-1). But for some slightly more complex procedural generation, you can check out the `quantumline` tools that come bundled with the PewPew emulator. Here's a quick explanation of what they do.
 
-* [A simple tool for quantum creativity](https://nbviewer.jupyter.org/github/qiskit-community/MicroQiskit/blob/master/versions/MicroPython/tutorials/QuantumLine.ipynb)
+* [A simple tool for quantum creativity](https://github.com/qiskit-community/MicroQiskit/blob/master/versions/MicroPython/tutorials/QuantumLine.ipynb)
 
 With these tools, you have everything you need to make your first quantum game. Have fun!
 
