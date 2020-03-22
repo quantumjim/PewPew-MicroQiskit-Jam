@@ -24,5 +24,7 @@ This is already enough to start with some [very simple procedural generation](ht
 
 * [A simple tool for quantum creativity](https://github.com/qiskit-community/MicroQiskit/blob/master/versions/MicroPython/tutorials/QuantumLine.ipynb)
 
+Thanks to our friends in Turku, there is even a way to get this working in C# (for use in Unity, for example). Check it out [here](https://github.com/bitbybyte-creations-fi/QuantumLineSharp).
+
 With these tools, you have everything you need to make your first quantum game. Have fun!
 
